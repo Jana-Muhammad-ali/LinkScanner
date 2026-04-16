@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="checker/checker.csproj" />
+  <Project Path="project/project.csproj" />
+</Solution>
